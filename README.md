@@ -7,7 +7,7 @@ superj is the speeding bullet of javascript frameworks, able to jump over tall b
 
 _*Extensibility*_ - superj was created with extensibility in mind. It plays nice with every other framework and makes no assumptions. There are no conventions, it is up to you, dear reader, to unleash your potential.
 
-_*Getting started*_ - Include a link to the script 'superjs.min.js' and you're on you way to make the web a better place for all.
+_*Getting started*_ - Include a link to the script 'superj.min.js' and you're on you way to make the web a better place for all.
 
 _*Key features*_
 
