@@ -11,7 +11,7 @@ superj was created with extensibility in mind. It plays nice with every other fr
 <h4>Getting started</h4>
 Include a link to the script 'superj.min.js' and you're on you way to make the web a better place for all.
 
-<h6>Extensibility</h6>
+<h4>Extensibility</h4>
 it just has that boiler teeming over.
 <h6>Speed</h6>
 as fast as native javascript (faster in some browsers due to limitations of the js engines - no doubt being diligently worked on every day by the slower interpreters (I'm looking at you IE))
