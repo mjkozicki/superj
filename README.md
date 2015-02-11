@@ -14,4 +14,6 @@ _*Key features*_
 *Extensibility*
 it just has that boiler teeming over.
 _*Speed*_
-as fast as native javascript (faster in some browsers due to limitations of the js engines - not doubt being diligently worked on every day by the slower interpreters (I'm looking at your IE))
+as fast as native javascript (faster in some browsers due to limitations of the js engines - no doubt being diligently worked on every day by the slower interpreters (I'm looking at you IE))
+_*Ubiquitous*_
+Use it anywhere. Server, client, browser, any project, anywhere.
