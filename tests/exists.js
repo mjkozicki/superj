@@ -1,2 +1,2 @@
-exists = typeof superj === typeof 'undefined';
+exists = typeof superj !== typeof 'undefined';
 die exists
